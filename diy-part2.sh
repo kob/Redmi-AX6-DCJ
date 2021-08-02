@@ -40,6 +40,7 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/luci
 #OpenClash小猫咪
 git clone https://github.com/vernesong/OpenClash.git package/OpenClash
 
+gite clone  https://github.com/fw876/helloworld package/helloworld
 #添加smartdns
 git clone https://github.com/pymumu/openwrt-smartdns package/smartdns
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
